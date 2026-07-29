@@ -1,0 +1,11 @@
+
+.venv
+venv/
+logs/
+frontend/dist/
+.env
+.vscode/
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
